@@ -1,0 +1,29 @@
+# Maven - Archivos compilados y temporales
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+build.log
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Visual Studio Code
+.vscode/
+.history/
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Karate - Reportes específicos
+karate-summary.html
+karate-reports/
