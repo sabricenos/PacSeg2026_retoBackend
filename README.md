@@ -113,7 +113,7 @@ UserItemSchema: Valida que cada usuario tenga nome, email, password, administrad
 UserListSchema: Valida que la respuesta de listado contenga el campo numérico quantidade y el array usuarios.
 
 3. Casos Negativos
-Validación de error 400 - Usuário não encontrado al intentar consultar un ID que ya fue eliminado o que es inexistente.
+Validación de error 400 - Usuário no encontrado al intentar consultar un ID que ya fue eliminado o que es inexistente.
 
 
 QA Automation Engineer: [Sergio Briceño]
